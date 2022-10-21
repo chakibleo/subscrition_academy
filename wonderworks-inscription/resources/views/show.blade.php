@@ -42,6 +42,7 @@
       </div>
     @else
       <h1>Not logged in</h1>
+      <h1>try to logged in as admin</h1>
     @endif
     
 
